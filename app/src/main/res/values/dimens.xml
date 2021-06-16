@@ -2,4 +2,5 @@
 <resources>
     <dimen name="margin_btn_menu">14dp</dimen>
     <dimen name="margin_button_menu">30dp</dimen>
+    <dimen name="margin_color_btn">4dp</dimen>
 </resources>
